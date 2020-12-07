@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10374" started-at="2020-12-07T07:38:28Z" finished-at="2020-12-07T07:38:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10374" started-at="2020-12-07T07:38:28Z" finished-at="2020-12-07T07:38:38Z">
+      <class name="tests.RunnerCricbuzz">
+        <test-method status="PASS" signature="method1()[pri:0, instance:tests.RunnerCricbuzz@59f99ea]" name="method1" is-config="true" duration-ms="8396" started-at="2020-12-07T13:08:28Z" finished-at="2020-12-07T13:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:tests.RunnerCricbuzz@59f99ea]" name="method2" duration-ms="1665" started-at="2020-12-07T13:08:36Z" finished-at="2020-12-07T13:08:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:tests.RunnerCricbuzz@59f99ea]" name="method3" is-config="true" duration-ms="296" started-at="2020-12-07T13:08:38Z" finished-at="2020-12-07T13:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- tests.RunnerCricbuzz -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
